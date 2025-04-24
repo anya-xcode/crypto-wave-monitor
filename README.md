@@ -1,7 +1,8 @@
 
 # Real-Time Crypto Price Tracker
-##demo link: cryptoworldislive.netlify.app
 A responsive React application that simulates real-time cryptocurrency price tracking using Redux Toolkit for state management.
+## Demo Link -  [https://cryptoworldislive.netlify.app/](https://cryptoworldislive.netlify.app/)
+
 
 ## Tech Stack
 
@@ -27,7 +28,7 @@ A responsive React application that simulates real-time cryptocurrency price tra
 1. Clone the repository
 2. Install dependencies: `npm install`
 3. Start the development server: `npm run dev`
-4. Open [http://localhost:8080](http://localhost:8080)
+4. Open [https://cryptoworldislive.netlify.app/](https://cryptoworldislive.netlify.app/)
 
 ## Architecture
 
